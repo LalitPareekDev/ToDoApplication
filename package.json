@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "joi": "^17.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "serverless-s3-sync": "^3.1.0"
+  }
+}
