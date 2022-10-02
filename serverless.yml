@@ -36,10 +36,10 @@ provider:
 
 plugins:
   - serverless-s3-sync
-  # - serverless-webpack
+  - serverless-webpack
 
-# package:
-#   individually: true
+package:
+  individually: true
 
 custom:
   taskTableName: tasks
